@@ -1,5 +1,5 @@
 printf
 scanf
 x = a+b
+y = a*b;
 printf ("eu gosto da aula da Tania");
-
