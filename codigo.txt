@@ -1,3 +1,5 @@
 printf
 scanf
 x = a+b
+printf ("eu gosto da aula da Tania");
+
